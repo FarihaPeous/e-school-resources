@@ -1,0 +1,165 @@
+.logo{
+    width: 180px;
+    margin-left: 120px;
+}
+.nav-item{
+    padding: 0px 20px;
+
+    
+}
+
+.paragraph-class{
+    color: red;
+    margin-left: 140px;
+    margin-top: 70px;
+}
+h1{
+    font-weight: bold;
+    font-size: 36px;
+    margin-left: 140px;
+    margin-top: 25px;
+
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.head-highlight{
+    color: #21B573;
+}
+.button-style{
+    background-color: #21B573;
+    border-radius: 33px;
+    height: 43px;
+    padding: 10px 30px;
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    left: 205px;
+    margin-left: 150px;
+    margin-top: 20px;
+    border: none;
+}
+p{
+    margin-left: 140px;
+    margin-top: 25px;
+    color: gray;
+
+
+}
+.nav-button{
+    background-color: #21B573;
+    border-radius: 33px;
+    height: 43px;
+    padding: 10px 30px;
+    border: none;
+    color: #FFFFFF;
+    
+    
+}
+.top-color{
+    background-color: #F0FFF0;
+    
+}
+.card-img-top{
+    height: 170px;
+    padding: 50px 100px 50px 100px;
+}
+.categories{
+    height: 500px;
+    margin-top: 120px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #F8FFFB;
+    position: absolute;
+    
+}
+.card-title{
+    text-align: center;
+    margin-top: 2px;
+}
+.card:hover{
+    box-shadow: 5px 5px 10px gray;
+}
+.top-image{
+    height: 380px;
+    padding: 50px 100px 50px 100px;
+}
+.card-img2{
+    height: 320px;
+    width: 900px;
+    padding: 30px 30px 30px 30px;
+    margin-top: auto;
+}
+.buy-course-button{
+    background-color: #21B573;
+    border-radius: 33px;
+    height: 43px;
+    padding: 10px 30px;
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    left: 205px;
+    margin-left: 150px;
+    margin-top: 20px;
+    border: none;
+    margin-left: auto;
+    margin-bottom: 20px;
+}
+.course-card-text{
+    margin: auto;
+    margin-left: 10px;
+}
+.course-card{
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: white;
+    position: absolute;
+    
+}
+.course-card:hover{
+    box-shadow: 5px 5px 10px gray;
+}
+.course-heading{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.courses{
+    margin-bottom: auto;
+}
+.testimonial-paragraph{
+    margin-bottom: 70px;
+    margin-right: 10px;
+}
+.course-list{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+
+.footer-section{
+    margin-top: 40px;
+}
+.footer-section ul li{
+    font-size: 15px;
+    color: white;
+    list-style: none;
+}
+.footer p{
+    font-size: 15px;
+    color: white;
+    margin-top: 50px;
+}
+.footer{
+    background-color: black;
+}
